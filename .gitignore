@@ -6,3 +6,4 @@ node_modules
 /lib/bs/**/*
 .merlin
 /src/**/*.bs.js
+.bsb.lock
