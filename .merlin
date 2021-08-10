@@ -3,4 +3,6 @@ FLG -ppx '/home/fmartin/code/sveltekit-rescript-windi/node_modules/rescript/linu
 S /home/fmartin/code/sveltekit-rescript-windi/node_modules/rescript/lib/ocaml
 B /home/fmartin/code/sveltekit-rescript-windi/node_modules/rescript/lib/ocaml
 FLG -w +a-4-9-20-40-41-42-50-61-102
+S src/stores
+B lib/bs/src/stores
 ####BSB GENERATED: NO EDIT}
